@@ -39,7 +39,7 @@ Optimized the design through FEA to reduce material and cost.
 Selected an appropriate motor to ensure efficient and effective stage rotation.
 How to Use This Repository
 
-Design Files: Zip file of the Solid Edge design for the bike stage are available in the /Revolving_stage_project directory.
+Design Files: Zip file of the Solid Edge design for the bike stage are available in the /4_Revolving_stage_Zip directory.
 
 Contributors
 Rathees T.
