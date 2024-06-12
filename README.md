@@ -42,6 +42,6 @@ How to Use This Repository
 Design Files: Zip file of the Solid Edge design for the bike stage are available in the /4_Revolving_stage_Zip directory.
 
 Contributors
-Rathees T.
-Mithunraaj 
+Rathees,
+Mithunraaj, 
 Dinith Nimsara
